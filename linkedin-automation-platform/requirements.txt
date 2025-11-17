@@ -1,0 +1,17 @@
+# LinkedIn Automation Platform Requirements
+
+# Core dependencies (lightweight - no external AI APIs required for demo)
+# This platform can run standalone with built-in AI logic
+
+# Future enhancements (optional):
+# openai>=1.0.0  # For GPT-4 integration
+# anthropic>=0.7.0  # For Claude integration
+# requests>=2.31.0  # For API calls
+# beautifulsoup4>=4.12.0  # For web scraping
+# selenium>=4.15.0  # For browser automation
+# pillow>=10.0.0  # For image processing
+# pandas>=2.0.0  # For data analysis
+# matplotlib>=3.7.0  # For visualization
+
+# Note: This implementation is self-contained and doesn't require external dependencies
+# The AI logic is implemented using algorithms and heuristics
